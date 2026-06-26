@@ -1,0 +1,181 @@
+{
+  "main": {
+    "name": "Ahmad Edwin Alfadin",
+    "description": "I am a Front-End Developer",
+    "image": "profilepic.jpg",
+    "github": "https://github.com/EdwinAlfadin",
+    "project": "https://github.com/EdwinAlfadin",
+    "bio": "Ini adalah section biografi aku",
+    "contactmessage": "Hello, here I am",
+    "email": "edwinalfadin915@gmail.com",
+    "phone": "856-9161-1437",
+    "address": {
+      "street": "Kp. Kedaung",
+      "city": "Bekasi",
+      "state": "West Java",
+      "zip": "17610"
+    },
+    "website": "https://github.com/EdwinAlfadin",
+    "resumedownload": "https://github.com/EdwinAlfadin",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/EdwinAlfadin",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ahmad-edwin-alfadin-alfa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EdwinAlfadin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universitas Bhayangkara Jakarta Raya",
+        "degree": "Bachelor degree of Psychology",
+        "graduated": "August, 2019",
+        "description": "I am joining BEMF of Psychologi"
+      },
+      {
+        "school": "SMK Teknologi Attaqwa 04",
+        "degree": "Machine",
+        "graduated": "May 2012",
+        "description": "I am joining Machine of Motorcycle"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "ReactJS",
+        "level": "85%"
+      },
+      {
+        "name": "VueJS",
+        "level": "88%"
+      },
+      {
+        "name": "",
+        "level": ""
+      },
+      {
+        "name": "",
+        "level": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "https://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "http://"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": "https://"
+      }
+    ]
+  }
+}
