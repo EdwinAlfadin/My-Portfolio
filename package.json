@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://edwinalfadin.github.io/My-Portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -14,8 +15,7 @@
     "react-ga": "^3.3.0",
     "react-scripts": "5.0.1",
     "react-zmage": "^0.8.5-beta.36",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://edwinalfadin.github.io/My-Portfolio"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
