@@ -5,7 +5,7 @@
     "image": "profilepic.jpg",
     "github": "https://github.com/EdwinAlfadin",
     "project": "https://github.com/EdwinAlfadin",
-    "bio": "Ini adalah section biografi aku",
+    "bio": "A Front-End Web Developer with strong skills in designing and building responsive web interfaces. Proficient in HTML, CSS, JavaScript, React.js, and Vue.js. Experienced in developing various portfolio websites and web applications through independent projects. Highly motivated to apply technical expertise and a strong willingness to learn as a Front-End Developer within your organization.",
     "contactmessage": "Hello, here I am",
     "email": "edwinalfadin915@gmail.com",
     "phone": "856-9161-1437",
@@ -16,7 +16,7 @@
       "zip": "17610"
     },
     "website": "https://github.com/EdwinAlfadin",
-    "resumedownload": "https://github.com/EdwinAlfadin",
+    "resumedownload": "https://drive.google.com/file/d/1-rjr_-Tnd221l7lRBBHB4RZAUwy5D9ao/view?usp=drive_link",
     "social": [
       {
         "name": "facebook",
@@ -63,118 +63,88 @@
     ],
     "work": [
       {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
+        "company": "PT. Denko Wahana Industries",
+        "title": "Operation Production",
+        "years": "2017",
+        "description": "Operation of Machine Press"
       },
       {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
+        "company": "PT. Chandra Nugerah Cipta",
+        "title": "Admin Operator Engineering DJT",
+        "years": "2015",
+        "description": "Making a Schedule IKA DJT"
       }
     ],
     "skills": [
       {
-        "name": "Java",
+        "name": "HTML",
         "level": "90%"
       },
       {
-        "name": "",
-        "level": ""
+        "name": "CSS",
+        "level": "95%"
       },
       {
-        "name": "ReactJS",
+        "name": "JavaScript",
         "level": "85%"
       },
       {
-        "name": "VueJS",
+        "name": "React.js",
         "level": "88%"
       },
       {
-        "name": "",
-        "level": ""
+        "name": "Vue.js",
+        "level": "90%"
       },
       {
-        "name": "",
-        "level": ""
+        "name": "Git & GitHub",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "https://"
+        "title": "Creating a Portfolio-Resume",
+        "category": "Project",
+        "image": "Creating a Portfolio-Resum.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
+        "title": "Creating a Portfolio-Inserting Contact",
+        "category": "Project",
+        "image": "Creating a Portfolio-Inserting Contact.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
+        "title": "Creating a Portfolio-Inserting Data",
+        "category": "Project",
+        "image": "Creating a Portfolio-Inserting Data.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
+        "title": "Creating a Portfolio-Header",
+        "category": "Project",
+        "image": "Creating a Portfolio-Header.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
+        "title": "Mini Project Calculator",
+        "category": "Mini Project",
+        "image": "Mini-Project-Calculator.png",
+        "url": "https://edwinalfadin.github.io/Mini-Project-Calculator/"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "CSS Mini Project",
+        "category": "Mini Project",
+        "image": "CSS-Mini-Project.png",
+        "url": "https://edwinalfadin.github.io/CSS-Mini-Project/"
       },
       {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "http://"
-      },
-      {
-        "title": "",
-        "category": "",
-        "image": "",
-        "url": "https://"
+        "title": "Project: Making To Do List Website",
+        "category": "Website",
+        "image": "To-Do-List.png",
+        "url": "https://edwinalfadin.github.io/To-Do-List/"
       }
     ]
   }
