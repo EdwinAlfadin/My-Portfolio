@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name": "Ahmad Edwin Alfadin",
+    "description": "I am a Front-End Developer",
+    "image": "profilepic.jpg",
+    "github": "https://github.com/EdwinAlfadin",
+    "project": "https://github.com/EdwinAlfadin",
+    "bio": "A Front-End Web Developer with strong skills in designing and building responsive web interfaces. Proficient in HTML, CSS, JavaScript, React.js, and Vue.js. Experienced in developing various portfolio websites and web applications through independent projects. Highly motivated to apply technical expertise and a strong willingness to learn as a Front-End Developer within your organization.",
+    "contactmessage": "Hello, here I am",
+    "email": "edwinalfadin915@gmail.com",
+    "phone": "856-9161-1437",
+    "address": {
+      "street": "Kp. Kedaung",
+      "city": "Bekasi",
+      "state": "West Java",
+      "zip": "17610"
+    },
+    "website": "https://github.com/EdwinAlfadin",
+    "resumedownload": "https://drive.google.com/file/d/1-rjr_-Tnd221l7lRBBHB4RZAUwy5D9ao/view?usp=drive_link",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/EdwinAlfadin",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ahmad-edwin-alfadin-alfa/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/EdwinAlfadin",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universitas Bhayangkara Jakarta Raya",
+        "degree": "Bachelor degree of Psychology",
+        "graduated": "August, 2019",
+        "description": "I am joining BEMF of Psychologi"
+      },
+      {
+        "school": "SMK Teknologi Attaqwa 04",
+        "degree": "Machine",
+        "graduated": "May 2012",
+        "description": "I am joining Machine of Motorcycle"
+      }
+    ],
+    "work": [
+      {
+        "company": "PT. Denko Wahana Industries",
+        "title": "Operation Production",
+        "years": "2017",
+        "description": "Operation of Machine Press"
+      },
+      {
+        "company": "PT. Chandra Nugerah Cipta",
+        "title": "Admin Operator Engineering DJT",
+        "years": "2015",
+        "description": "Making a Schedule IKA DJT"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "React.js",
+        "level": "88%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "90%"
+      },
+      {
+        "name": "Git & GitHub",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Creating a Portfolio-Resume",
+        "category": "Project",
+        "image": "Creating a Portfolio-Resum.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+      },
+      {
+        "title": "Creating a Portfolio-Inserting Contact",
+        "category": "Project",
+        "image": "Creating a Portfolio-Inserting Contact.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+      },
+      {
+        "title": "Creating a Portfolio-Inserting Data",
+        "category": "Project",
+        "image": "Creating a Portfolio-Inserting Data.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+      },
+      {
+        "title": "Creating a Portfolio-Header",
+        "category": "Project",
+        "image": "Creating a Portfolio-Header.png",
+        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+      },
+      {
+        "title": "Mini Project Calculator",
+        "category": "Mini Project",
+        "image": "Mini-Project-Calculator.png",
+        "url": "https://edwinalfadin.github.io/Mini-Project-Calculator/"
+      },
+      {
+        "title": "CSS Mini Project",
+        "category": "Mini Project",
+        "image": "CSS-Mini-Project.png",
+        "url": "https://edwinalfadin.github.io/CSS-Mini-Project/"
+      },
+      {
+        "title": "Project: Making To Do List Website",
+        "category": "Website",
+        "image": "To-Do-List.png",
+        "url": "https://edwinalfadin.github.io/To-Do-List/"
+      }
+    ]
+  }
+}
