@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+# 🌐 My Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website portfolio pribadi yang dibuat menggunakan *React.js* untuk menampilkan profil, keahlian, proyek, dan informasi kontak.
 
-## Available Scripts
+## 📸 Preview
 
-In the project directory, you can run:
+![Preview](public/images/home2.png)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Fitur
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🏠 Homepage
+- 👤 About Me
+- 💼 Portfolio Project
+- 🛠️ Skills
+- 📄 Resume
+- 📞 Contact
+- 📱 Responsive Design
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠️ Teknologi
 
-### `npm run build`
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📁 Struktur Folder
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+my-portfolio/
+│
+├── public/
+│   ├── css/
+│   ├── images/
+│   ├── js/
+│   ├── resumeData.json
+│   └── index.html
+│
+├── src/
+│   ├── Components/
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+│
+├── package.json
+└── README.md
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Cara Menjalankan
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone repository
 
-## Learn More
+bash
+git clone https://github.com/EdwinAlfadin/My-Portfolio/my-portfolio.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Masuk ke folder
 
-### Code Splitting
+bash
+cd my-portfolio
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Install dependency
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+bash
+npm install
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Jalankan project
 
-### Advanced Configuration
+bash
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+Buka browser
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+## 📷 Screenshot
+
+![Home](public/images/home.png)
+
+
+---
+
+## 👨‍💻 Author
+
+*Ahmad Edwin Alfadin*
+
+- Front End Developer
+- GitHub: https://github.com/EdwinAlfadin
+- LinkedIn: https://linkedin.com/in/ahmad-edwin-alfadin-alfa
+
+---
+
+## ⭐ Jika project ini bermanfaat
+
+Berikan ⭐ pada repository ini.
