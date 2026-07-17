@@ -5,7 +5,7 @@
     "image": "profilepic.jpg",
     "github": "https://github.com/EdwinAlfadin",
     "project": "https://github.com/EdwinAlfadin",
-    "bio": "A Front-End Web Developer with strong skills in designing and building responsive web interfaces. Proficient in HTML, CSS, JavaScript, React.js, and Vue.js. Experienced in developing various portfolio websites and web applications through independent projects. Highly motivated to apply technical expertise and a strong willingness to learn as a Front-End Developer within your organization.",
+    "bio": "Passionate Front-End Developer with hands-on experience building responsive web applications using HTML, CSS, JavaScript, React.js, and Vue.js. Experienced in developing modern web interfaces, debugging applications, implementing Git workflows, and deploying projects through CI/CD practices. Strong problem-solving skills, fast learner, and committed to writing clean, maintainable code while continuously improving technical expertise.",
     "contactmessage": "Hello, here I am",
     "email": "edwinalfadin915@gmail.com",
     "phone": "856-9161-1437",
@@ -16,17 +16,17 @@
       "zip": "17610"
     },
     "website": "https://github.com/EdwinAlfadin",
-    "resumedownload": "https://drive.google.com/file/d/1-rjr_-Tnd221l7lRBBHB4RZAUwy5D9ao/view?usp=drive_link",
+    "resumedownload": "./public/CV.Ahmad Edwin Alfadin-Alfa.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://github.com/EdwinAlfadin",
-        "className": "fa fa-facebook"
+        "name": "whatsapp",
+        "url": "http://whatsapp.com/085691611437",
+        "className": "fa fa-whatsapp"
       },
       {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
+        "name": "facebook",
+        "url": "https://www.facebook.com/Ahmad-Edwin-Alfadin/",
+        "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
@@ -35,7 +35,7 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/",
+        "url": "http://instagram.com/ahmadedwinalfadin",
         "className": "fa fa-instagram"
       },
       {
@@ -51,41 +51,29 @@
       {
         "school": "Universitas Bhayangkara Jakarta Raya",
         "degree": "Bachelor degree of Psychology",
-        "graduated": "August, 2019",
-        "description": "I am joining BEMF of Psychologi"
-      },
-      {
-        "school": "SMK Teknologi Attaqwa 04",
-        "degree": "Machine",
-        "graduated": "May 2012",
-        "description": "I am joining Machine of Motorcycle"
+        "graduated": "2015-2019",
+        "description": "GPA: 3.08 / 4.00"
       }
     ],
     "work": [
       {
-        "company": "PT. Denko Wahana Industries",
-        "title": "Operation Production",
-        "years": "2017",
-        "description": "Operation of Machine Press"
-      },
-      {
-        "company": "PT. Chandra Nugerah Cipta",
-        "title": "Admin Operator Engineering DJT",
-        "years": "2015",
-        "description": "Making a Schedule IKA DJT"
+        "company": "My Skill Platform",
+        "title": "Front-End Developer",
+        "years": "May 2026-Present",
+        "description": "Project Independent"
       }
     ],
     "skills": [
       {
-        "name": "HTML",
+        "name": "HTML5",
         "level": "90%"
       },
       {
-        "name": "CSS",
+        "name": "CSS3",
         "level": "95%"
       },
       {
-        "name": "JavaScript",
+        "name": "JavaScript (ES6+)",
         "level": "85%"
       },
       {
@@ -97,36 +85,66 @@
         "level": "90%"
       },
       {
+        "name": "Responsive Web Design",
+        "level": "90%"
+      },
+      {
         "name": "Git & GitHub",
         "level": "80%"
+      },
+      {
+        "name": "REST API Integration",
+        "level": "85%"
+      },
+      {
+        "name": "Front-End Debugging & Troubleshooting",
+        "level": "80%"
+      },
+      {
+        "name": "CI/CD Deployment",
+        "level": "85%"
+      },
+      {
+        "name": "Web Performance Optimization",
+        "level": "88%"
+      },
+      {
+        "name": "Cross-Browser Compatibility",
+        "level": "90%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Creating a Portfolio-Resume",
+        "title": "Creating Quizz App",
         "category": "Project",
-        "image": "Creating a Portfolio-Resum.png",
-        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+        "image": "Quiz-Login.png",
+        "url": "https://edwinalfadin.github.io/Quizz-App/"
       },
       {
-        "title": "Creating a Portfolio-Inserting Contact",
+        "title": "Creating Movie App",
         "category": "Project",
-        "image": "Creating a Portfolio-Inserting Contact.png",
-        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+        "image": "Movie-Web-App.png",
+        "url": "https://edwinalfadin.github.io/Movie-Web-App/"
       },
       {
-        "title": "Creating a Portfolio-Inserting Data",
+        "title": "Build a Property Web",
         "category": "Project",
-        "image": "Creating a Portfolio-Inserting Data.png",
-        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+        "image": "Buid-Property-Resident-Web.png",
+        "url": "https://edwinalfadin.github.io/Build-a-Property-Web/"
       },
       {
-        "title": "Creating a Portfolio-Header",
+        "title": "Project in Vue Basic",
+        "category": "Project",
+        "image": "Project-in-Vue-Basic.png",
+        "url": "https://edwinalfadin.github.io/Project-in-Vue-Basic/"
+      },
+      {
+        "title": "Creating a Portfolio",
         "category": "Project",
         "image": "Creating a Portfolio-Header.png",
-        "url": "https://github.com/EdwinAlfadin/My-Portfolio"
+        "url": "https://edwinalfadin.github.io/My-Portfolio/"
       },
       {
         "title": "Mini Project Calculator",
